@@ -1,41 +1,41 @@
 # I-o-T Solutions
 
 Created a high level system analysis and design project
-__
+
+
 ## Executive strategy
-__
+
 ## System proposal and problem statement
-### Background
-### Goals
-### Scope
-### Key Stakeholders
-### Project Milestones
-### Project Budget
-### Constraints, Assumptions, Risks and Dependencies
-### Deliverables
-### Project Success Criteria
-__
+Background
+Goals
+Scope
+Key Stakeholders
+Project Milestones
+Project Budget
+Constraints, Assumptions, Risks and Dependencies
+Deliverables
+Project Success Criteria
+
 ## Requirements Definition
-### Functional requirements
-### Non-functional requirements
-__
+Functional requirements
+Non-functional requirements
+
 ## Structural Models
-### Class Diagram
-__
+Class Diagram
+
 ## Behavioral Models
-### Use Case Diagrams
-### Use Case Description
-__
+Use Case Diagrams
+Use Case Description
+
 ## Dynamic Models
-### Sequence Diagrams
-### State Diagrams
-__
+Sequence Diagrams
+State Diagrams
+
 ## Design Documents
-### Software Design
-### User Interface Design
-__
+Software Design
+User Interface Design
+
 ## Testing
-### Purpose
-### Scope
-### Test Strategy
-### Test Cases
+Purpose
+Scope
+Test Strategy
