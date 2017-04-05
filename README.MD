@@ -21,21 +21,21 @@ Created a high level system analysis and design project
 - Non-functional requirements
 
 ## Structural Models
-Class Diagram
+- Class Diagram
 
 ## Behavioral Models
-Use Case Diagrams
-Use Case Description
+- Use Case Diagrams
+- Use Case Description
 
 ## Dynamic Models
-Sequence Diagrams
-State Diagrams
+- Sequence Diagrams
+- State Diagrams
 
 ## Design Documents
-Software Design
-User Interface Design
+- Software Design
+- User Interface Design
 
 ## Testing
-Purpose
-Scope
-Test Strategy
+- Purpose
+- Scope
+- Test Strategy
