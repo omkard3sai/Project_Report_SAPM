@@ -1,18 +1,9 @@
 # I-o-T Solutions
 
 Created a high level system analysis and design project
-★
-★
-★  -
-★ Structural models - Class diagrams
-★ Behavioral models - Use case diagrams and descriptions
-★ Dynamic models - Sequence diagrams and State diagrams
-★ Design documents - Software design and User interface design
-★ Control objects
-★ Testing - Test strategy and Test cases
-
+__
 ## Executive strategy
-
+__
 ## System proposal and problem statement
 ### Background
 ### Goals
@@ -23,26 +14,26 @@ Created a high level system analysis and design project
 ### Constraints, Assumptions, Risks and Dependencies
 ### Deliverables
 ### Project Success Criteria
-
+__
 ## Requirements Definition
 ### Functional requirements
 ### Non-functional requirements
-
+__
 ## Structural Models
 ### Class Diagram
-
+__
 ## Behavioral Models
 ### Use Case Diagrams
 ### Use Case Description
-
+__
 ## Dynamic Models
 ### Sequence Diagrams
 ### State Diagrams
-
+__
 ## Design Documents
 ### Software Design
 ### User Interface Design
-
+__
 ## Testing
 ### Purpose
 ### Scope
