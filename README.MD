@@ -3,7 +3,7 @@
 Created a high level system analysis and design project
 
 
-## Executive strategy
+## Executive summary
 
 ## System proposal and problem statement
 - Background
